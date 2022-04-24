@@ -9,17 +9,20 @@ Group Members:
   <ul>
     <li>Jackson Taylor
       <ul>
-        <li>jct56@pitt.edu</li>
+        <li>Email: jct56@pitt.edu</li>
+        <li>Individual Notebook: Traffic Count.ipynb</li>
       </ul>
     </li>
     <li>Dennison Qu
       <ul>
-        <li>dlq1@pitt.edu</li>
+        <li>Email: dlq1@pitt.edu</li>
+        <li>Individual Notebook: Notebook.ipynb</li>
       </ul>
     </li>
     <li>Matthew Beller
       <ul>
-        <li>mrb206@pitt.edu</li>
+        <li>Email: mrb206@pitt.edu</li>
+        <li>Individual Notebook: housing-conditions-analysis.ipynb</li>
       </ul>
     </li>
   </ul>
